@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Thu, 02 Jan 2020 17:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 18:09:23 +0000</lastBuildDate>
     
 	<atom:link href="https://makovako.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testing other auto post</title>
+      <link>https://makovako.github.io/blog/post/2020-01-02-testing-other-auto-post/</link>
+      <pubDate>Thu, 02 Jan 2020 18:09:23 +0000</pubDate>
+      
+      <guid>https://makovako.github.io/blog/post/2020-01-02-testing-other-auto-post/</guid>
+      <description>Fingers crossed Now after setting up some netlify cms problems and github actions, this post should be automagically deployed to my blog. This is written from netlify CMS</description>
+    </item>
     
     <item>
       <title>Test post from netlify cms</title>
