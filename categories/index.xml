@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My blog</title>
+    <link>https://makovako.github.io/blog/categories/</link>
+    <description>Recent content in Categories on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://makovako.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>catA</title>
+      <link>https://makovako.github.io/blog/categories/cata/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.github.io/blog/categories/cata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>catB</title>
+      <link>https://makovako.github.io/blog/categories/catb/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.github.io/blog/categories/catb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

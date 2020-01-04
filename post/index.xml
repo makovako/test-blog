@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on My blog</title>
+    <link>https://makovako.github.io/blog/post/</link>
+    <description>Recent content in Articles on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://makovako.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newerpost</title>
+      <link>https://makovako.github.io/blog/post/newerpost/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.github.io/blog/post/newerpost/</guid>
+      <description>This is a new post
+And some code style in here:
+22 23 24 25  def fun(sth): print(sth)  fun()   </description>
+    </item>
+    
+    <item>
+      <title>Testing other auto post</title>
+      <link>https://makovako.github.io/blog/post/2020-01-02-testing-other-auto-post/</link>
+      <pubDate>Thu, 02 Jan 2020 18:09:23 +0000</pubDate>
+      
+      <guid>https://makovako.github.io/blog/post/2020-01-02-testing-other-auto-post/</guid>
+      <description>Fingers crossed Now after setting up some netlify cms problems and github actions, this post should be automagically deployed to my blog. This is written from netlify CMS</description>
+    </item>
+    
+    <item>
+      <title>Test post from netlify cms</title>
+      <link>https://makovako.github.io/blog/post/2020-01-02-test-post-from-netlify-cms/</link>
+      <pubDate>Thu, 02 Jan 2020 17:16:48 +0000</pubDate>
+      
+      <guid>https://makovako.github.io/blog/post/2020-01-02-test-post-from-netlify-cms/</guid>
+      <description>Tetsing markdown SOme test in markdown
+And sub heading How does it work and look?</description>
+    </item>
+    
+    <item>
+      <title>Testpost</title>
+      <link>https://makovako.github.io/blog/post/testpost/</link>
+      <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
+      
+      <guid>https://makovako.github.io/blog/post/testpost/</guid>
+      <description>Test post in english</description>
+    </item>
+    
+    <item>
+      <title>Oldestpost</title>
+      <link>https://makovako.github.io/blog/post/oldestpost/</link>
+      <pubDate>Tue, 31 Dec 2019 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.github.io/blog/post/oldestpost/</guid>
+      <description>This is the oldest post from previous year</description>
+    </item>
+    
+  </channel>
+</rss>

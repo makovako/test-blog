@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://makovako.github.io/blog/gallery/</loc>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/</loc>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/gallery/trip-gallery/</loc>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/post/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/categories/cata/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/categories/catb/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/categories/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/post/newerpost/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/newerpost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/newerpost/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/tags/taga/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/tags/tagc/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/tags/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/post/2020-01-02-testing-other-auto-post/</loc>
+    <lastmod>2020-01-02T18:09:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/post/2020-01-02-test-post-from-netlify-cms/</loc>
+    <lastmod>2020-01-02T17:16:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/tags/tagb/</loc>
+    <lastmod>2020-01-01T22:36:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/post/testpost/</loc>
+    <lastmod>2020-01-01T22:36:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/testpost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/testpost/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/post/oldestpost/</loc>
+    <lastmod>2019-12-31T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/oldestpost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/oldestpost/"
+                />
+  </url>
+  
+</urlset>

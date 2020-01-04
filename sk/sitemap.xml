@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://makovako.github.io/blog/sk/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/sk/post/newerpost/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/newerpost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/newerpost/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/sk/post/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/sk/post/testpost/</loc>
+    <lastmod>2020-01-01T22:36:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/testpost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/testpost/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/sk/post/oldestpost/</loc>
+    <lastmod>2019-12-31T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.github.io/blog/post/oldestpost/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.github.io/blog/sk/post/oldestpost/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.github.io/blog/sk/kategoria/</loc>
+  </url>
+  
+</urlset>
