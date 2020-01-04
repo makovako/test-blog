@@ -1,7 +1,0 @@
-baseURL = "https://makovako.github.io/blog/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "simple-style"
-publishDir = "docs/"
-
-copyright = "Everything is mine"
