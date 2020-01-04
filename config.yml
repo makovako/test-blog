@@ -1,0 +1,20 @@
+baseURL: 'https://makovako.github.io/blog/'
+languageCode: 'en-us'
+title: 'My new hugo site'
+theme: 'custom-theme'
+copyright: 'Everything is mine'
+paginate: 2
+
+taxonomies:
+    category: categories
+    tag: tags
+
+languages:
+    en:
+        title: My blog
+        weight: 1
+    sk:
+        title: Moj blog
+        Taxonomies:
+            category: kategoria
+        weight: 2
