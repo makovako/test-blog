@@ -1,0 +1,22 @@
+{{define "main"}}
+
+<h1>{{.Title}}</h1>
+
+<div>
+  <h2>Choose in other language</h2>
+  {{ if .IsTranslated }}
+  <h4>{{ i18n "translations" }}</h4>
+  <ul>
+    {{ range .Translations }}
+    <li>
+      <a href="{{ .Permalink }}"
+        >{{ .Lang }}: {{ .Title }}{{ if .IsPage }} ({{ i18n "wordCount" . }})
+        {{ end }}</a
+      >
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</div>
+
+{{ .Content }} {{end}}

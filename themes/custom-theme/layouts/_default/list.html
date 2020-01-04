@@ -1,0 +1,19 @@
+{{define "main"}}
+
+<article>
+  <h1>Posts</h1>
+  {{ range .Paginator.Pages }}
+  <article>
+  <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+  <p>{{ .Description }}</p>
+  {{ end }}
+</article>
+{{ template "_internal/pagination.html" . }}
+{{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}">  Prev </a>
+{{ end }}
+{{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}">  Next </a>
+{{ end }}
+
+{{end}}

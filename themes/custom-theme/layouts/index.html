@@ -1,0 +1,25 @@
+{{ define "main"}} 
+<h2>This is home page</h2>
+<h3>Here are all the pages</h3>
+
+{{ i18n "test" }}
+
+<ul>
+  {{ range where .Site.RegularPages "Section" "post"}}
+    <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+  {{end}}
+</ul>
+
+{{ range .Site.RegularPages.GroupByDate "2006-01" }}
+<h3>{{ .Key }}</h3>
+<ul>
+    {{ range where .Pages "Section" "post"}}
+    <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+
+{{end}}

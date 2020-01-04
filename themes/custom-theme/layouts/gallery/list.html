@@ -1,0 +1,12 @@
+{{define "main"}}
+
+<article style="background-color: #aaa;">
+  <h1>Galleries</h1>
+  {{ range .Pages }}
+  <article></article>
+  <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+  <p>{{ .Description }}</p>
+  {{ end }}
+</article>
+
+{{end}}

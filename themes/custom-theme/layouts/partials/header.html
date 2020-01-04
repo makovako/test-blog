@@ -1,0 +1,12 @@
+<header>
+  <a href="{{.Site.Home.Permalink}}"><h1>This is header</h1></a>
+  <h2>{{ .Site.Title }} - {{ .Title }}</h2>
+  <h2>All languages</h2>
+  <ul>
+    {{ range .Site.Home.AllTranslations }}
+    <li><a href="{{ .Permalink }}">{{ .Language }}</a></li>
+    {{ end }}
+  </ul>
+  <h2>Current language</h2>
+  {{.Site.Home.Permalink}}
+</header>
