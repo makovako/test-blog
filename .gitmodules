@@ -1,0 +1,3 @@
+[submodule "themes/makovako-blog-theme"]
+	path = themes/makovako-blog-theme
+	url = https://github.com/makovako/makovako-blog-theme.git
