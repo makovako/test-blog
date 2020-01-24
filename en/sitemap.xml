@@ -3,132 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://makovako.github.io/blog/gallery/</loc>
-    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+    <loc>https://makovako.xyz/blog/categories.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/</loc>
-    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+    <loc>https://makovako.xyz/blog/categories/diary.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="https://makovako.github.io/blog/sk/"
+                href="https://makovako.xyz/blog/sk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://makovako.github.io/blog/"
+                href="https://makovako.xyz/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/gallery/trip-gallery/</loc>
+    <loc>https://makovako.xyz/blog/post/post-with-archetype.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/post.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/post.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/post.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/tags.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/tags/x.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/tags/yf.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/tags/z.html</loc>
+    <lastmod>2020-01-11T15:50:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/gallery.html</loc>
     <lastmod>2020-01-03T17:25:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/post/</loc>
+    <loc>https://makovako.xyz/blog/gallery/trip-gallery.html</loc>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/categories/cata.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/categories/catb.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/post/newerpost.html</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="https://makovako.github.io/blog/sk/post/"
+                href="https://makovako.xyz/blog/sk/post/newerpost.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://makovako.github.io/blog/post/"
+                href="https://makovako.xyz/blog/post/newerpost.html"
                 />
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/categories/cata/</loc>
+    <loc>https://makovako.xyz/blog/tags/taga.html</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/categories/catb/</loc>
+    <loc>https://makovako.xyz/blog/tags/tagc.html</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/categories/</loc>
-    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://makovako.github.io/blog/post/newerpost/</loc>
-    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sk"
-                href="https://makovako.github.io/blog/sk/post/newerpost/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://makovako.github.io/blog/post/newerpost/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://makovako.github.io/blog/tags/taga/</loc>
-    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://makovako.github.io/blog/tags/tagc/</loc>
-    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://makovako.github.io/blog/tags/</loc>
-    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://makovako.github.io/blog/post/2020-01-02-testing-other-auto-post/</loc>
+    <loc>https://makovako.xyz/blog/post/2020-01-02-testing-other-auto-post.html</loc>
     <lastmod>2020-01-02T18:09:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/post/2020-01-02-test-post-from-netlify-cms/</loc>
+    <loc>https://makovako.xyz/blog/post/2020-01-02-test-post-from-netlify-cms.html</loc>
     <lastmod>2020-01-02T17:16:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/tags/tagb/</loc>
+    <loc>https://makovako.xyz/blog/tags/tagb.html</loc>
     <lastmod>2020-01-01T22:36:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/post/testpost/</loc>
+    <loc>https://makovako.xyz/blog/post/testpost.html</loc>
     <lastmod>2020-01-01T22:36:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="https://makovako.github.io/blog/sk/post/testpost/"
+                href="https://makovako.xyz/blog/sk/post/testpost.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://makovako.github.io/blog/post/testpost/"
+                href="https://makovako.xyz/blog/post/testpost.html"
                 />
   </url>
   
   <url>
-    <loc>https://makovako.github.io/blog/post/oldestpost/</loc>
+    <loc>https://makovako.xyz/blog/post/oldestpost.html</loc>
     <lastmod>2019-12-31T12:58:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="sk"
-                href="https://makovako.github.io/blog/sk/post/oldestpost/"
+                href="https://makovako.xyz/blog/sk/post/oldestpost.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://makovako.github.io/blog/post/oldestpost/"
+                href="https://makovako.xyz/blog/post/oldestpost.html"
                 />
   </url>
   
