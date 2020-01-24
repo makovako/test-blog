@@ -19,6 +19,6 @@ languages:
         weight: 1
         # staticDir: static
     sk:
-        title: Moj blog
+        title: Môj blog
         # staticDir: static
         weight: 2

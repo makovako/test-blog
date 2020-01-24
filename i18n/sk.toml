@@ -1,2 +1,17 @@
 [test]
 other = "Slovensky text"
+
+[posts]
+other = "Články"
+
+[galleries]
+other = "Galérie"
+
+[series]
+other = "Série"
+
+[categories]
+other = "Kategórie"
+
+[Tags]
+other = "Značky"

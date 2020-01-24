@@ -1,2 +1,17 @@
 [test]
 other = "English test"
+
+[posts]
+other = "Posts"
+
+[galleries]
+other = "Galleries"
+
+[series]
+other = "Series"
+
+[categories]
+other = "Categories"
+
+[Tags]
+other = "Tags"
