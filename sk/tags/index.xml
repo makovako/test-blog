@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Môj blog</title>
+    <link>https://makovako.xyz/blog/sk/tags.html</link>
+    <description>Recent content in Tags on Môj blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://makovako.xyz/blog/sk/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tagA</title>
+      <link>https://makovako.xyz/blog/sk/tags/taga.html</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/tags/taga.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagC</title>
+      <link>https://makovako.xyz/blog/sk/tags/tagc.html</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/tags/tagc.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagB</title>
+      <link>https://makovako.xyz/blog/sk/tags/tagb.html</link>
+      <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/tags/tagb.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

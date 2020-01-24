@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Môj blog</title>
-    <link>https://makovako.xyz/blog/sk/post.html</link>
-    <description>Recent content in Posts on Môj blog</description>
+    <title>tagC on Môj blog</title>
+    <link>https://makovako.xyz/blog/sk/tags/tagc.html</link>
+    <description>Recent content in tagC on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Everything is mine</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/sk/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/blog/sk/tags/tagc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://makovako.xyz/blog/sk/post/newerpost.html</guid>
       <description>Toto je novy post</description>
-    </item>
-    
-    <item>
-      <title>Testpost</title>
-      <link>https://makovako.xyz/blog/sk/post/testpost.html</link>
-      <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
-      
-      <guid>https://makovako.xyz/blog/sk/post/testpost.html</guid>
-      <description>Test post v slovencine</description>
     </item>
     
     <item>

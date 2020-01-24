@@ -33,6 +33,10 @@
     display:block
 }
 
+.active-language {
+    color: #f00;
+}
+
 @media screen and (min-width: 796px) {
     .navbar {
         display: flex;

@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://makovako.xyz/blog/sk/gallery.html</loc>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/gallery.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/gallery.html"
+                />
+  </url>
+  
+  <url>
     <loc>https://makovako.xyz/blog/sk/</loc>
-    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +29,66 @@
                 rel="alternate"
                 hreflang="sk"
                 href="https://makovako.xyz/blog/sk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/gallery/trip-gallery.html</loc>
+    <lastmod>2020-01-03T17:25:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/gallery/trip-gallery.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/gallery/trip-gallery.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/categories/cata.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/categories/cata.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/categories/cata.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/categories/catb.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/categories/catb.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/categories/catb.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/categories.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/categories.html"
                 />
   </url>
   
@@ -48,6 +123,66 @@
   </url>
   
   <url>
+    <loc>https://makovako.xyz/blog/sk/tags/taga.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/tags/taga.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/tags/taga.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/tags/tagc.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/tags/tagc.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/tags/tagc.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/tags.html</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/tags.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/sk/tags/tagb.html</loc>
+    <lastmod>2020-01-01T22:36:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://makovako.xyz/blog/tags/tagb.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sk"
+                href="https://makovako.xyz/blog/sk/tags/tagb.html"
+                />
+  </url>
+  
+  <url>
     <loc>https://makovako.xyz/blog/sk/post/testpost.html</loc>
     <lastmod>2020-01-01T22:36:21+01:00</lastmod>
     <xhtml:link
@@ -75,10 +210,6 @@
                 hreflang="sk"
                 href="https://makovako.xyz/blog/sk/post/oldestpost.html"
                 />
-  </url>
-  
-  <url>
-    <loc>https://makovako.xyz/blog/sk/kategoria.html</loc>
   </url>
   
 </urlset>
