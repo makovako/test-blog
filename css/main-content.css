@@ -1,0 +1,44 @@
+.main {
+    padding: 1rem;
+}
+
+.main .hero, .main .posts, .main .galleries {
+    margin: 0.5rem 0;
+}
+
+.main .posts {
+
+}
+
+.main .posts .recent-posts {
+    margin: 0.5rem 0;
+}
+
+.main .posts .recent-posts ul {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: center;
+    gap: 1rem
+    /* justify-items: center; */
+}
+
+.main .posts .recent-posts ul .post {
+    border: solid 1px #000;
+
+}
+
+.main .galleries{
+
+}
+
+@media screen and (min-width: 600px ){
+    .main .posts .recent-posts ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (min-width: 796px ){
+    .main .posts .recent-posts ul {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
