@@ -7,7 +7,7 @@ copyright: 'Everything is mine'
 paginate: 12
 relativeURLs: true
 uglyURLs: true
-# staticDir: static
+staticDir: static
 
 taxonomies:
     category: categories
@@ -17,10 +17,8 @@ languages:
     en:
         title: My blog
         weight: 1
-        staticDir: static
+        # staticDir: static
     sk:
         title: Moj blog
-        staticDir: static
-        Taxonomies:
-            category: kategoria
+        # staticDir: static
         weight: 2
