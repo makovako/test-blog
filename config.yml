@@ -1,9 +1,13 @@
-baseURL: 'https://makovako.github.io/blog/'
+baseURL: 'https://makovako.xyz/blog/'
 languageCode: 'en-us'
 title: 'My new hugo site'
-theme: 'custom-theme'
+theme: 'makovako-blog-theme'
+# theme: 'custom-theme'
 copyright: 'Everything is mine'
-paginate: 2
+paginate: 12
+relativeURLs: true
+uglyURLs: true
+# staticDir: static
 
 taxonomies:
     category: categories
@@ -13,8 +17,10 @@ languages:
     en:
         title: My blog
         weight: 1
+        staticDir: static
     sk:
         title: Moj blog
+        staticDir: static
         Taxonomies:
             category: kategoria
         weight: 2
