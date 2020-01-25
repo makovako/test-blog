@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My blog</title>
-    <link>https://makovako.xyz/blog/categories.html</link>
+    <link>https://makovako.xyz/blog/categories/</link>
     <description>Recent content in Categories on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Everything is mine</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 15:50:11 +0100</lastBuildDate>
     
 	<atom:link href="https://makovako.xyz/blog/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -14,28 +13,28 @@
     
     <item>
       <title>diary</title>
-      <link>https://makovako.xyz/blog/categories/diary.html</link>
+      <link>https://makovako.xyz/blog/categories/diary/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/categories/diary.html</guid>
+      <guid>https://makovako.xyz/blog/categories/diary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>catA</title>
-      <link>https://makovako.xyz/blog/categories/cata.html</link>
+      <link>https://makovako.xyz/blog/categories/cata/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/categories/cata.html</guid>
+      <guid>https://makovako.xyz/blog/categories/cata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>catB</title>
-      <link>https://makovako.xyz/blog/categories/catb.html</link>
+      <link>https://makovako.xyz/blog/categories/catb/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/categories/catb.html</guid>
+      <guid>https://makovako.xyz/blog/categories/catb/</guid>
       <description></description>
     </item>
     

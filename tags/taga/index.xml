@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tagA on My blog</title>
-    <link>https://makovako.xyz/blog/tags/taga.html</link>
+    <link>https://makovako.xyz/blog/tags/taga/</link>
     <description>Recent content in tagA on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Everything is mine</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
     
 	<atom:link href="https://makovako.xyz/blog/tags/taga/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Newerpost</title>
-      <link>https://makovako.xyz/blog/post/newerpost.html</link>
+      <link>https://makovako.xyz/blog/post/newerpost/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/post/newerpost.html</guid>
+      <guid>https://makovako.xyz/blog/post/newerpost/</guid>
       <description>This is a new post
 And some code style in here:
 22 23 24 25  def fun(sth): print(sth)  fun()   </description>
@@ -25,19 +24,19 @@ And some code style in here:
     
     <item>
       <title>Testpost</title>
-      <link>https://makovako.xyz/blog/post/testpost.html</link>
+      <link>https://makovako.xyz/blog/post/testpost/</link>
       <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/post/testpost.html</guid>
+      <guid>https://makovako.xyz/blog/post/testpost/</guid>
       <description>Test post in english</description>
     </item>
     
     <item>
       <title>Oldestpost</title>
-      <link>https://makovako.xyz/blog/post/oldestpost.html</link>
+      <link>https://makovako.xyz/blog/post/oldestpost/</link>
       <pubDate>Tue, 31 Dec 2019 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/post/oldestpost.html</guid>
+      <guid>https://makovako.xyz/blog/post/oldestpost/</guid>
       <description>This is the oldest post from previous year</description>
     </item>
     

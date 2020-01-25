@@ -34,7 +34,15 @@
 }
 
 .active-language {
-    color: #f00;
+    color: #333;
+}
+
+.inactive-language {
+    color: #666;
+}
+
+.active-language:hover, .inactive-language:hover {
+    color: #000;
 }
 
 @media screen and (min-width: 796px) {

@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on My blog</title>
-    <link>https://makovako.xyz/blog/gallery.html</link>
+    <link>https://makovako.xyz/blog/gallery/</link>
     <description>Recent content in Galleries on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Everything is mine</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 17:25:44 +0100</lastBuildDate>
     
 	<atom:link href="https://makovako.xyz/blog/gallery/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Trip Gallery</title>
-      <link>https://makovako.xyz/blog/gallery/trip-gallery.html</link>
+      <link>https://makovako.xyz/blog/gallery/trip-gallery/</link>
       <pubDate>Fri, 03 Jan 2020 17:25:44 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/gallery/trip-gallery.html</guid>
+      <guid>https://makovako.xyz/blog/gallery/trip-gallery/</guid>
       <description>This is a test gallery </description>
     </item>
     

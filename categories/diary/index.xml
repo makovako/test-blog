@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diary on My blog</title>
-    <link>https://makovako.xyz/blog/categories/diary.html</link>
+    <link>https://makovako.xyz/blog/categories/diary/</link>
     <description>Recent content in diary on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Everything is mine</copyright>
     <lastBuildDate>Sat, 11 Jan 2020 15:50:11 +0100</lastBuildDate>
     
 	<atom:link href="https://makovako.xyz/blog/categories/diary/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Post With Archetype</title>
-      <link>https://makovako.xyz/blog/post/post-with-archetype.html</link>
+      <link>https://makovako.xyz/blog/post/post-with-archetype/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/post/post-with-archetype.html</guid>
+      <guid>https://makovako.xyz/blog/post/post-with-archetype/</guid>
       <description>It worked </description>
     </item>
     
