@@ -39,3 +39,9 @@ other = "Hlavná Stránka"
 
 [build-using]
 other = "Vytvorené nástrojom"
+
+[all-categories]
+other = "Všetky kategórie"
+
+[post-count]
+other = "Počet článkov"

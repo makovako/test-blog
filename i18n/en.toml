@@ -39,3 +39,9 @@ other = "Landing Page"
 
 [build-using]
 other = "Build using"
+
+[all-categories]
+other = "All Categories"
+
+[post-count]
+other = "Number of posts"
