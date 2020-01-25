@@ -12,11 +12,21 @@
     
     
     <item>
-      <title>Novsi post</title>
+      <title>Newerpost</title>
       <link>https://makovako.xyz/blog/sk/post/newerpost/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
       <guid>https://makovako.xyz/blog/sk/post/newerpost/</guid>
+      <description>Pictures   Jeden Obrazok   Code style And some code style in here:
+22 23 24 25  def fun(sth): print(sth)  fun()   </description>
+    </item>
+    
+    <item>
+      <title>Novsi post - bkp</title>
+      <link>https://makovako.xyz/blog/sk/post/newerpost-bkp/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/post/newerpost-bkp/</guid>
       <description>Toto je novy post</description>
     </item>
     

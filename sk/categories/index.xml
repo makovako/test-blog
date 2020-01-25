@@ -12,11 +12,38 @@
     
     
     <item>
+      <title>catA</title>
+      <link>https://makovako.xyz/blog/sk/categories/cata/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/categories/cata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>catB</title>
+      <link>https://makovako.xyz/blog/sk/categories/catb/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/categories/catb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>catB-sk</title>
       <link>https://makovako.xyz/blog/sk/categories/catb-sk/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
       <guid>https://makovako.xyz/blog/sk/categories/catb-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>catC</title>
+      <link>https://makovako.xyz/blog/sk/categories/catc/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/categories/catc/</guid>
       <description></description>
     </item>
     

@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>tagA</title>
+      <link>https://makovako.xyz/blog/sk/tags/taga/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tagA-sk</title>
       <link>https://makovako.xyz/blog/sk/tags/taga-sk/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
       <guid>https://makovako.xyz/blog/sk/tags/taga-sk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagC</title>
+      <link>https://makovako.xyz/blog/sk/tags/tagc/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/tags/tagc/</guid>
       <description></description>
     </item>
     
