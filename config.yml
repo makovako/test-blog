@@ -3,15 +3,19 @@ languageCode: 'en-us'
 title: 'My new hugo site'
 theme: 'makovako-blog-theme'
 # theme: 'custom-theme'
-copyright: 'Everything is mine'
+# copyright: 'Everything is mine'
 paginate: 12
-relativeURLs: true
-uglyURLs: true
+# relativeURLs: true
+# uglyURLs: true
 staticDir: static
+
+params:
+    DateFormat: "12:50, 20.2.2009"
 
 taxonomies:
     category: categories
     tag: tags
+    series: series
 
 languages:
     en:
