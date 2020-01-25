@@ -155,31 +155,16 @@
   <url>
     <loc>https://makovako.xyz/blog/categories/cata/</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sk"
-                href="https://makovako.xyz/blog/sk/categories/cata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://makovako.xyz/blog/categories/cata/"
-                />
   </url>
   
   <url>
     <loc>https://makovako.xyz/blog/categories/catb/</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sk"
-                href="https://makovako.xyz/blog/sk/categories/catb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://makovako.xyz/blog/categories/catb/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://makovako.xyz/blog/categories/catc/</loc>
+    <lastmod>2020-01-03T12:58:46+01:00</lastmod>
   </url>
   
   <url>
@@ -200,31 +185,11 @@
   <url>
     <loc>https://makovako.xyz/blog/tags/taga/</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sk"
-                href="https://makovako.xyz/blog/sk/tags/taga/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://makovako.xyz/blog/tags/taga/"
-                />
   </url>
   
   <url>
     <loc>https://makovako.xyz/blog/tags/tagc/</loc>
     <lastmod>2020-01-03T12:58:46+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sk"
-                href="https://makovako.xyz/blog/sk/tags/tagc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://makovako.xyz/blog/tags/tagc/"
-                />
   </url>
   
   <url>
@@ -240,16 +205,6 @@
   <url>
     <loc>https://makovako.xyz/blog/tags/tagb/</loc>
     <lastmod>2020-01-01T22:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="sk"
-                href="https://makovako.xyz/blog/sk/tags/tagb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://makovako.xyz/blog/tags/tagb/"
-                />
   </url>
   
   <url>

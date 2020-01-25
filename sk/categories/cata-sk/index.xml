@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tagA on Môj blog</title>
-    <link>https://makovako.xyz/blog/sk/tags/taga/</link>
-    <description>Recent content in tagA on Môj blog</description>
+    <title>catA-sk on Môj blog</title>
+    <link>https://makovako.xyz/blog/sk/categories/cata-sk/</link>
+    <description>Recent content in catA-sk on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/sk/tags/taga/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/blog/sk/categories/cata-sk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
