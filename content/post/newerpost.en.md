@@ -6,6 +6,7 @@ type: 'post'
 categories:
   - catA
   - catB
+  - catC
 tags:
   - tagA
   - tagC
