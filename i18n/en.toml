@@ -54,3 +54,9 @@ other = "All Series"
 
 [of]
 other = "of"
+
+[table-of-content]
+other = "Table of content"
+
+[read-in-other-language]
+other = "Read in other language"

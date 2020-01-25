@@ -54,3 +54,9 @@ other = "Všetky série"
 
 [of]
 other = "z"
+
+[table-of-content]
+other = "Obsah"
+
+[read-in-other-language]
+other = "Čítať v inom jazyku"
