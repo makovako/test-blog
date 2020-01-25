@@ -45,3 +45,12 @@ other = "All Categories"
 
 [post-count]
 other = "Number of posts"
+
+[all-tags]
+other = "All Tags"
+
+[all-series]
+other = "All Series"
+
+[of]
+other = "of"

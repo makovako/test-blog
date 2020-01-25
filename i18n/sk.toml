@@ -45,3 +45,12 @@ other = "Všetky kategórie"
 
 [post-count]
 other = "Počet článkov"
+
+[all-tags]
+other = "Kľúčové slová"
+
+[all-series]
+other = "Všetky série"
+
+[of]
+other = "z"
