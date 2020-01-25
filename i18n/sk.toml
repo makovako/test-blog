@@ -15,3 +15,27 @@ other = "Kategórie"
 
 [tags]
 other = "Značky"
+
+[see-more]
+other = "Zobraziť viac"
+
+[next-pages]
+other = "Ďalšie"
+
+[prev-pages]
+other = "Predchádzajúce"
+
+[welcome]
+other = "Vitajte"
+
+[welcome-text]
+other = "Vitajte na mojom blogu, kde si zapisujem zápisky z môjho života, technológii, cestovania a ďalších."
+
+[about-me]
+other = "O Mne"
+
+[landing-page]
+other = "Hlavná Stránka"
+
+[build-using]
+other = "Vytvorené nástrojom"

@@ -15,3 +15,27 @@ other = "Categories"
 
 [tags]
 other = "Tags"
+
+[see-more]
+other = "See more"
+
+[next-pages]
+other = "Next"
+
+[prev-pages]
+other = "Previous"
+
+[welcome]
+other = "Welcome"
+
+[welcome-text]
+other = "Welcome to my blog, where I write down some notes about my life, technologies, travelling and much more."
+
+[about-me]
+other = "About Me"
+
+[landing-page]
+other = "Landing Page"
+
+[build-using]
+other = "Build using"
