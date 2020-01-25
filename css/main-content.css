@@ -34,7 +34,7 @@
 }
 
 .main .tags .tags-list a {
-    margin: 0.5rem 1rem;
+    margin: 0.5rem;
     border: 1px solid #aaa;
     padding: 0.5rem;
 }
@@ -132,5 +132,11 @@
     }
     .main .series .series-list a {
         max-width: 75%;
+    }
+
+    .main .tags .tags-list a {
+        margin: 0.5rem 1rem;
+        border: 1px solid #aaa;
+        padding: 0.5rem;
     }
 }
