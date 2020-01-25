@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>catA</title>
-      <link>https://makovako.xyz/blog/categories/cata/</link>
-      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
-      
-      <guid>https://makovako.xyz/blog/categories/cata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>catB</title>
       <link>https://makovako.xyz/blog/categories/catb/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
@@ -45,6 +36,15 @@
       
       <guid>https://makovako.xyz/blog/categories/catc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Category A</title>
+      <link>https://makovako.xyz/blog/categories/cata/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/categories/cata/</guid>
+      <description>Lala category a</description>
     </item>
     
   </channel>

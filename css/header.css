@@ -13,7 +13,6 @@
 .main-nav li {
     text-align: center;
     padding: 0.3rem 0.5rem;
-
 }
 
 .logo {
@@ -43,6 +42,16 @@
 
 .active-language:hover, .inactive-language:hover {
     color: #000;
+}
+
+.main-nav .languages a:first-of-type {
+    border-right: 1px solid #000;
+    padding-right: 0.5rem;
+}
+
+.main-nav .languages a:last-of-type {
+    border-left: 1px solid #000;
+    padding-left: 0.5rem;
 }
 
 @media screen and (min-width: 796px) {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Môj blog</title>
+    <title>Kategórie on Môj blog</title>
     <link>https://makovako.xyz/blog/sk/categories/</link>
-    <description>Recent content in Categories on Môj blog</description>
+    <description>Recent content in Kategórie on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>catA-sk</title>
-      <link>https://makovako.xyz/blog/sk/categories/cata-sk/</link>
-      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
-      
-      <guid>https://makovako.xyz/blog/sk/categories/cata-sk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>catB-sk</title>
       <link>https://makovako.xyz/blog/sk/categories/catb-sk/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
       <guid>https://makovako.xyz/blog/sk/categories/catb-sk/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Kategoria A</title>
+      <link>https://makovako.xyz/blog/sk/categories/cata-sk/</link>
+      <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
+      
+      <guid>https://makovako.xyz/blog/sk/categories/cata-sk/</guid>
+      <description>Nejaky popis pre kategoriu A</description>
     </item>
     
   </channel>

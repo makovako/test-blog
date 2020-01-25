@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>test series</title>
+      <title>Test series title</title>
       <link>https://makovako.xyz/blog/series/test-series/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
       <guid>https://makovako.xyz/blog/series/test-series/</guid>
-      <description></description>
+      <description>Here is some description of a series Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia voluptatem fugit assumenda fuga ea modi deserunt blanditiis! Maxime eligendi repellat ad voluptates nobis temporibus aut voluptatum, aperiam eos nemo libero vel aliquid recusandae, dolorem mollitia. Ex quae amet nulla aliquid. Rerum accusamus excepturi dolorum eligendi deserunt minima dolore sed quos.</description>
     </item>
     
   </channel>
