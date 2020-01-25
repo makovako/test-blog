@@ -106,6 +106,78 @@
     padding-bottom: 0.5rem;
 }
 
+.main > article {
+    padding: 0 1rem;
+}
+
+.main > article p{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.main > article p + p {
+margin-top: 1rem;
+}
+.main > article h1,
+.main > article h2,
+.main > article h3 {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+.main > article div,
+.main > article figure {
+    margin-bottom: 1rem;
+}
+
+.main > article h1 {
+    font-size: 2rem;
+}
+
+.main > article h2{
+    font-size: 1.8rem;
+}
+
+
+.main > article h3 {
+    font-size: 1.5rem;
+}
+
+.main > article > .title {
+    font-size: 3rem;
+}
+
+.main > article ul {
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+.main > article ul li{
+    list-style-position: inside;
+    list-style-type: disc;
+    
+}
+.main > article ol {
+    line-height: 1.5;
+    
+}
+.main > article ol li{
+    list-style-position: inside;
+    list-style-type: decimal;   
+}
+
+.main > article a {
+    text-decoration: underline;
+}
+
+.main > article a:hover {
+    color: #666;
+}
+
+.main > article .table-of-content ul {
+    margin: 0;
+}
+.main > article .table-of-content ul ul {
+    margin-left: 1rem;
+}
 .main .galleries{
 
 }
