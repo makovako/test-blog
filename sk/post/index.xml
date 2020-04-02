@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Môj blog</title>
-    <link>https://makovako.xyz/blog/sk/post/</link>
+    <link>https://makovako.xyz/test-blog/sk/post/</link>
     <description>Recent content in Posts on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/sk/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/test-blog/sk/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Newerpost</title>
-      <link>https://makovako.xyz/blog/sk/post/newerpost/</link>
+      <link>https://makovako.xyz/test-blog/sk/post/newerpost/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/post/newerpost/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/post/newerpost/</guid>
       <description>Pictures   Jeden Obrazok   Code style And some code style in here:
 22 23 24 25  def fun(sth): print(sth)  fun()   </description>
     </item>
     
     <item>
       <title>Novsi post - bkp</title>
-      <link>https://makovako.xyz/blog/sk/post/newerpost-bkp/</link>
+      <link>https://makovako.xyz/test-blog/sk/post/newerpost-bkp/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/post/newerpost-bkp/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/post/newerpost-bkp/</guid>
       <description>Toto je novy post</description>
     </item>
     
     <item>
       <title>Testpost</title>
-      <link>https://makovako.xyz/blog/sk/post/testpost/</link>
+      <link>https://makovako.xyz/test-blog/sk/post/testpost/</link>
       <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/post/testpost/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/post/testpost/</guid>
       <description>Test post v slovencine</description>
     </item>
     
     <item>
       <title>Stary post</title>
-      <link>https://makovako.xyz/blog/sk/post/oldestpost/</link>
+      <link>https://makovako.xyz/test-blog/sk/post/oldestpost/</link>
       <pubDate>Tue, 31 Dec 2019 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/post/oldestpost/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/post/oldestpost/</guid>
       <description>Toto je stary post z predchadajuceho roka</description>
     </item>
     

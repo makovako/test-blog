@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>catA on Môj blog</title>
-    <link>https://makovako.xyz/blog/sk/categories/cata/</link>
+    <link>https://makovako.xyz/test-blog/sk/categories/cata/</link>
     <description>Recent content in catA on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/sk/categories/cata/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/test-blog/sk/categories/cata/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Newerpost</title>
-      <link>https://makovako.xyz/blog/sk/post/newerpost/</link>
+      <link>https://makovako.xyz/test-blog/sk/post/newerpost/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/post/newerpost/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/post/newerpost/</guid>
       <description>Pictures   Jeden Obrazok   Code style And some code style in here:
 22 23 24 25  def fun(sth): print(sth)  fun()   </description>
     </item>

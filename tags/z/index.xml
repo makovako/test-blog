@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>z on My blog</title>
-    <link>https://makovako.xyz/blog/tags/z/</link>
+    <link>https://makovako.xyz/test-blog/tags/z/</link>
     <description>Recent content in z on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2020 15:50:11 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/tags/z/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/test-blog/tags/z/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post With Archetype</title>
-      <link>https://makovako.xyz/blog/post/post-with-archetype/</link>
+      <link>https://makovako.xyz/test-blog/post/post-with-archetype/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/post/post-with-archetype/</guid>
+      <guid>https://makovako.xyz/test-blog/post/post-with-archetype/</guid>
       <description>It worked </description>
     </item>
     

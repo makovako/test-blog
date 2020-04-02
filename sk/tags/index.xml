@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Značky on Môj blog</title>
-    <link>https://makovako.xyz/blog/sk/tags/</link>
+    <link>https://makovako.xyz/test-blog/sk/tags/</link>
     <description>Recent content in Značky on Môj blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 12:58:46 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/sk/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/test-blog/sk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tagA</title>
-      <link>https://makovako.xyz/blog/sk/tags/taga/</link>
+      <link>https://makovako.xyz/test-blog/sk/tags/taga/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/tags/taga/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/tags/taga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagA-sk</title>
-      <link>https://makovako.xyz/blog/sk/tags/taga-sk/</link>
+      <link>https://makovako.xyz/test-blog/sk/tags/taga-sk/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/tags/taga-sk/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/tags/taga-sk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagC</title>
-      <link>https://makovako.xyz/blog/sk/tags/tagc/</link>
+      <link>https://makovako.xyz/test-blog/sk/tags/tagc/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/tags/tagc/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/tags/tagc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagC-sk</title>
-      <link>https://makovako.xyz/blog/sk/tags/tagc-sk/</link>
+      <link>https://makovako.xyz/test-blog/sk/tags/tagc-sk/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/tags/tagc-sk/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/tags/tagc-sk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagB-sk</title>
-      <link>https://makovako.xyz/blog/sk/tags/tagb-sk/</link>
+      <link>https://makovako.xyz/test-blog/sk/tags/tagb-sk/</link>
       <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/sk/tags/tagb-sk/</guid>
+      <guid>https://makovako.xyz/test-blog/sk/tags/tagb-sk/</guid>
       <description></description>
     </item>
     

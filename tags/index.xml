@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog</title>
-    <link>https://makovako.xyz/blog/tags/</link>
+    <link>https://makovako.xyz/test-blog/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2020 15:50:11 +0100</lastBuildDate>
     
-	<atom:link href="https://makovako.xyz/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://makovako.xyz/test-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>x</title>
-      <link>https://makovako.xyz/blog/tags/x/</link>
+      <link>https://makovako.xyz/test-blog/tags/x/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/tags/x/</guid>
+      <guid>https://makovako.xyz/test-blog/tags/x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>yf</title>
-      <link>https://makovako.xyz/blog/tags/yf/</link>
+      <link>https://makovako.xyz/test-blog/tags/yf/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/tags/yf/</guid>
+      <guid>https://makovako.xyz/test-blog/tags/yf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>z</title>
-      <link>https://makovako.xyz/blog/tags/z/</link>
+      <link>https://makovako.xyz/test-blog/tags/z/</link>
       <pubDate>Sat, 11 Jan 2020 15:50:11 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/tags/z/</guid>
+      <guid>https://makovako.xyz/test-blog/tags/z/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagA</title>
-      <link>https://makovako.xyz/blog/tags/taga/</link>
+      <link>https://makovako.xyz/test-blog/tags/taga/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/tags/taga/</guid>
+      <guid>https://makovako.xyz/test-blog/tags/taga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagC</title>
-      <link>https://makovako.xyz/blog/tags/tagc/</link>
+      <link>https://makovako.xyz/test-blog/tags/tagc/</link>
       <pubDate>Fri, 03 Jan 2020 12:58:46 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/tags/tagc/</guid>
+      <guid>https://makovako.xyz/test-blog/tags/tagc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tagB</title>
-      <link>https://makovako.xyz/blog/tags/tagb/</link>
+      <link>https://makovako.xyz/test-blog/tags/tagb/</link>
       <pubDate>Wed, 01 Jan 2020 22:36:21 +0100</pubDate>
       
-      <guid>https://makovako.xyz/blog/tags/tagb/</guid>
+      <guid>https://makovako.xyz/test-blog/tags/tagb/</guid>
       <description></description>
     </item>
     
