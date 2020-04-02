@@ -1,4 +1,4 @@
-baseURL: 'https://makovako.xyz/blog/'
+baseURL: 'https://makovako.xyz/test-blog/'
 languageCode: 'en-us'
 title: 'My new hugo site'
 theme: 'makovako-blog-theme'
